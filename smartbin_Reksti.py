@@ -20,7 +20,7 @@ from datetime import datetime
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
  
-id = "B8:27:EB:79:B8:8F"
+id = "tps01"
 #GPIO Mode (BOARD / BCM)
 GPIO.setmode(GPIO.BCM)
  
